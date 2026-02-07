@@ -38,9 +38,6 @@ npm run dev
 
 ```
 openclaw-session-browser/
-├── sessions/              # OpenClaw session files
-│   ├── sessions.json      # Session metadata
-│   └── *.jsonl           # Individual session logs
 ├── public/               # Frontend files
 │   ├── index.html        # Main HTML
 │   ├── styles.css        # Styling
